@@ -9,3 +9,17 @@ h1{
 img{
     border-radius: 50%;
 }
+
+#special {
+    color: #5f9ea0;
+}
+
+#special2 {
+color: #5f9ea0
+background-color: #FFD700;
+}
+
+#special3 {
+    color: #5f9ea0;
+    background-color: #FFD700;
+}
